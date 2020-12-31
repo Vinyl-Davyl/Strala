@@ -21,6 +21,14 @@ h1, h2, h3{
     font-family: 'Comfortaa', sans-serif;
 }
 
+/*Text-linear-gradient*/
+header .flex h1{
+    background: -webkit-linear-gradient(#2c3e50, #b06ab3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent; 
+}
+
 p{
     opacity: 0.6;
 }
