@@ -23,7 +23,7 @@ h1, h2, h3{
 
 /*Text-linear-gradient*/
 header .flex h1{
-    background: -webkit-linear-gradient(#2c3e50, #b06ab3);
+    background: -webkit-linear-gradient(#b06ab3, #86a8e7);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     color: transparent; 
